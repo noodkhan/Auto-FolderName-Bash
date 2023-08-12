@@ -15,7 +15,8 @@ Note
 	* Do not Support Window Shell 
 
 
-
+To Run Program : 
+	./auto_file.sh 
 											
 
 								Creator Noodkhan Navin 
